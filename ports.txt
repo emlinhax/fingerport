@@ -1,2 +1,0 @@
-RDP servce: 9744
-adb: 5037
